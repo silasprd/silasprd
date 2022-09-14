@@ -1,5 +1,5 @@
 ## Silas Rafael Barreto Prado 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <div align="center">
   <a href="https://github.com/silasprd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silasprd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,6 +12,6 @@
   <img align="center" alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <i class="devicon-angularjs-plain colored"></i>
+  <img align="center" alt="Angular-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
  </div>
   
