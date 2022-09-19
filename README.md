@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasprd&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
  
- <div style="display: flex; width: 100vw;">
+ <div style="display: flex; flex-direction: row">
    #### Tecnologias mais utilizadas:
    <div style="display: inline_block">
     <img align="center" alt="JS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
