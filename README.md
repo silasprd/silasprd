@@ -1,5 +1,4 @@
 ## Olá mundo, sou Silas Rafael Barreto Prado!!
-### Desenvolvedor
 
 <div align="center">
   <a href="https://github.com/silasprd">
