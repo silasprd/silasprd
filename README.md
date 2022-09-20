@@ -1,5 +1,5 @@
 ## Olá mundo, sou Silas Rafael Barreto Prado!!
-### Desenvolvedor front-end, com conhecimento em back-end e interesse na área de fullstack
+### Desenvolvedor
 
 <div align="center">
   <a href="https://github.com/silasprd">
