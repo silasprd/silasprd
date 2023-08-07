@@ -1,4 +1,4 @@
-## Olá mundo, sou Silas Prado, Desenvolvedor Front-end!!
+## Olá mundo, sou Silas Prado, Desenvolvedor!!
 
 <div align="center">
   <a href="https://github.com/silasprd">
